@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bohdan</h1>
 
 # 💫 About Me:
-🔭 I’m currently working on my full-stack project named as like "Movie guide"<br>🤝 I’m looking for help with back-end<br>🌱 I’m currently learning React Native<br>💬 Ask me about algorithms, WWW, security protocols<br>⚡ Fun fact that I'm interested in chess
+🔭 I’m currently working on my full-stack project named as "Movie guide"<br>🤝 I’m looking for help with back-end<br>🌱 I’m currently learning React Native<br>💬 Ask me about algorithms, WWW, security protocols<br>⚡ Fun fact that I'm interested in chess
 
 
 ## 🌐 Socials:
