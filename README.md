@@ -6,8 +6,8 @@
 
 ## 🌐 Socials:
 <p align="left">
-<a href="https://linkedin.com/in/bohdan hrabovetskyi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bohdan hrabovetskyi" height="30" width="40" /></a>
-<a href="https://fb.com/бодя грабовецкий" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="бодя грабовецкий" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/bohdan-hrabovetskyi-9994a126b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bohdan hrabovetskyi" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100009295568899" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="бодя грабовецкий" height="30" width="40" /></a>
 <a href="https://instagram.com/bohdan_nelo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bohdan_nelo" height="30" width="40" /></a>
 <a href="https://discord.gg/Trust_60#0395" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Trust_60#0395" height="30" width="40" /></a>
 </p>
