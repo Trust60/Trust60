@@ -22,5 +22,6 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Trust60&icon=0&color=6)](https://visitcount.itsvg.in)
+[![wakatime](https://wakatime.com/badge/user/d8d175b8-4d2e-43f4-952e-6e961835d62b.svg)](https://wakatime.com/@d8d175b8-4d2e-43f4-952e-6e961835d62b)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
